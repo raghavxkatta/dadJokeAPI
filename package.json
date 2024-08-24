@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "colors.js": "^1.2.4",
+    "cowsay": "^1.6.0",
+    "figlet": "^1.7.0",
+    "give-me-a-joke": "^0.5.1"
+  },
+  "name": "jokester",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raghav Katta",
+  "license": "ISC",
+  "description": ""
+}
